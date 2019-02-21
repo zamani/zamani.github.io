@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Ali Zamani on Mohammad Ali Zamani</title>
+    <link>/</link>
+    <description>Recent content in Mohammad Ali Zamani on Mohammad Ali Zamani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Mohammad Ali Zamani 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deep reinforcement learning using compositional representations for performing instructions</title>
+      <link>/publication/paladyn/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/paladyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating End-to-End Speech Recognition Models for Sentiment Analysis</title>
+      <link>/publication/icra2019/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/icra2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1) European Researchers&#39; Night:</title>
+      <link>/outreach/msca/</link>
+      <pubDate>Wed, 05 Dec 2018 01:05:05 +0100</pubDate>
+      
+      <guid>/outreach/msca/</guid>
+      <description>&lt;p&gt;We demonstrated our project &amp;ldquo; robot that learns how to perform language instructions&amp;rdquo; in  ‘Science is Wonder-ful!’, on September 26-27 2018. Our project shows the ability of robots to understand spoken instructions which was working a noisy condition.You can see more details &lt;a href=&#34;/project/instructing_arm_robot/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/msca3.png&#34; alt=&#34;&amp;quot;(https://ec.europa.eu/research/mariecurieactions/)&amp;quot;&#34; /&gt;
+I explained our project to Dimitrios Papadimoulis, Vice President of the European Parliament. (Image credit: &lt;a href=&#34;https://ec.europa.eu/research/mariecurieactions/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;European Comission - MSCA&lt;/strong&gt;&lt;/a&gt;)
+&lt;img src=&#34;/img/msca0.png&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; /&gt;
+&lt;img src=&#34;/img/msca1.jpg&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; /&gt;
+&lt;img src=&#34;/img/msca2.jpg&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; /&gt;
+&lt;img src=&#34;/img/msca4.jpg&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; /&gt;
+&lt;img src=&#34;/img/msca5.png&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can find the video here:
+&lt;video src=&#34;https://ec.europa.eu/research/mariecurieactions/sites/mariecurie2/files/science-is-wonderful-video-2018_3.mp4&#34; width=&#34;840&#34; controls&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 poster presentations at IROS 2018</title>
+      <link>/talk/iros2018/</link>
+      <pubDate>Fri, 05 Oct 2018 16:30:00 +0200</pubDate>
+      
+      <guid>/talk/iros2018/</guid>
+      <description>&lt;p&gt;I jointly presented our paper &lt;a href=&#34;/publication/iros2018/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;On the Robustness of Speech Emotion Recognition for Human-Robot Interaction with Deep Neural Networks&lt;/em&gt;&lt;/a&gt; during the interactive section. Also, on the last day of the conference, I attended the &lt;em&gt;Machine Learning in Robot Motion Planning&lt;/em&gt; workshop to present our work on &lt;a href=&#34;/publication/iros2018_ws/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm</title>
+      <link>/publication/iros2018_ws/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/iros2018_ws/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;robot.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Robustness of Speech Emotion Recognition for Human-Robot Interaction with Deep Neural Networks</title>
+      <link>/publication/iros2018/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/iros2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-modulated Actions using Deep Reinforcement Learning for Safer Human-Robot Interaction</title>
+      <link>/publication/ssr2018/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ssr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presenting my research progress</title>
+      <link>/talk/ssr2018/</link>
+      <pubDate>Fri, 28 Sep 2018 14:15:00 +0200</pubDate>
+      
+      <guid>/talk/ssr2018/</guid>
+      <description>&lt;p&gt;We organized a PhD students conference focused safety and interaction quality. I also had a chance to present my &lt;a href=&#34;/publication/ssr2018/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;progress&lt;/em&gt;&lt;/a&gt; in this conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Spatial Representation for Safe Human-Robot Collaboration in Joint Manual Tasks</title>
+      <link>/publication/icra2018_workmate_ws/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/icra2018_workmate_ws/</guid>
+      <description>
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/icra_2018_workmate.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2) Interview with the MCAA IRRADIUM magazine</title>
+      <link>/outreach/irradium/</link>
+      <pubDate>Tue, 22 May 2018 15:00:00 +0200</pubDate>
+      
+      <guid>/outreach/irradium/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/interview_irradium.png&#34; alt=&#34;Mohammad Ali Zamani, interview, artificial intelligence&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was interviewed by the &lt;a href=&#34;https://www.mariecuriealumni.eu/mcaa-magazine&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;MCAA IRRADIUM&lt;/em&gt;&lt;/a&gt; magazine about the challenges, development, and uptake of . The online version of the interview can be found here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.mariecuriealumni.eu/magazine/news/european-approach-artificial-intelligence-challenges-developments-and-uptake&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;European approach to Artificial Intelligence: Challenges, developments and uptake&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The PDF version can be found &lt;a href=&#34;https://www.mariecuriealumni.eu/sites/default/files/mcaa_magazine_january2019_web_final.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;
+(page 16-17)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3 poster presentation at ICRA 2018</title>
+      <link>/talk/icra2018/</link>
+      <pubDate>Tue, 22 May 2018 15:00:00 +0200</pubDate>
+      
+      <guid>/talk/icra2018/</guid>
+      <description>&lt;p&gt;I presented 3 posters at ICRA main conference, Workmate workshop and PhD forum.&lt;/p&gt;
+
+&lt;p&gt;The first presentation was &lt;a href=&#34;/publication/emorl/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;“Emorl: Continuous acoustic emotion classification using deep reinforcement learning”&lt;/em&gt;&lt;/a&gt; at ICRA 2018.&lt;/p&gt;
+
+&lt;p&gt;I also presented &lt;a href=&#34;/publication/icra2018_workmate_ws/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;&amp;ldquo;Learning spatial representation for safe human-robot collaboration in joint manual tasks&amp;rdquo;&lt;/em&gt;&lt;/a&gt; at the Workmate workshop at ICRA 2018.&lt;/p&gt;
+
+&lt;p&gt;And finally, I presented my work on &lt;a href=&#34;/publication/icra2018_phd_forum/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;&amp;ldquo;Language-modulated Actions for Safer Human-Robot Interaction using Deep Reinforcement Learning&amp;rdquo;&lt;/em&gt;&lt;/a&gt; as a poster in the ICRA 2018 Ph.D. forum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EmoRL: Real-time Acoustic Emotion Classification using Deep Reinforcement Learning</title>
+      <link>/publication/emorl/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/emorl/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/bheIo0RUwT0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Language-modulated Safer Actions using Deep Reinforcement Learning</title>
+      <link>/publication/icra2018_phd_forum/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/icra2018_phd_forum/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Deep Continuous Reinforcement Learning through Task Simplification</title>
+      <link>/publication/ijcnn2018/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ijcnn2018/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robot that performs language instructions</title>
+      <link>/project/instructing_arm_robot/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/instructing_arm_robot/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Click&lt;/em&gt; &lt;a href=&#34;/outreach/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt; &lt;em&gt;for more photos&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Spoken language is potentially the most intuitive way to communicate with robot. In this project, we assembled an arm robot to demonstrate to public, especially younger kids, how they can instruct robot to perform actions. This project includes automatic speech recognition (ASR), text to speech, spoken language understanding, vision, and motion planning.&lt;/p&gt;
+
+&lt;p&gt;To work with our robot, a user can wake up the robot by its name &amp;ldquo;Jarvis&amp;rdquo;. Then, the robot confirms that is ready to receive a new command by saying &amp;ldquo;Yes!&amp;rdquo;. After hearing the confirmation, the user give a command such as &amp;ldquo;Pick cube number 5 and put it near cube numebr 1&amp;rdquo;. Although, we had our own domain-specific ASR model, due to operating condition which was in an extremely noisy condition we used the Google ASR. We ask the Google ASR the top most probable hypotheses. These hypotheses are used to identify the intended cubes as well as a target position for the picked cube. If there was no target position is commanded then robot performed a handover when users says &amp;ldquo;Release!&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Using a top camera robot locates the cubes using the April tags on top each cubes and using moveIt! package it plans and performs the trajectory to reach to the cube. Jarvis can grasp the cube using a electomagnet which is installed at the end-effector of the robot. There is also a metal piece is attached to the top of the cubes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
