@@ -373,6 +373,15 @@
     
     <url>
     
+      <loc>/tags/demos/</loc>
+      <lastmod>2018-05-23T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/human-robot-interaction/</loc>
       <lastmod>2018-01-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
