@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ROS | Mohammad Ali Zamani</title>
+    <title>ROS | Academic</title>
     <link>/tag/ros/</link>
       <atom:link href="/tag/ros/index.xml" rel="self" type="application/rss+xml" />
     <description>ROS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Dec 2018 01:05:05 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu2ee4088727a1a9658601b209b56ffe69_259266_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ROS</title>
       <link>/tag/ros/</link>
     </image>
