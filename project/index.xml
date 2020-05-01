@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
+    <title>Projects | Mohammad Ali Zamani</title>
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu2ee4088727a1a9658601b209b56ffe69_259266_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
     
     <item>
-      <title>Converge Project</title>
+      <title>SECURE Project</title>
       <link>/project/secure/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/project/secure/</guid>
-      <description></description>
+      <description>&lt;p&gt;I was part of the SECURE project between 2016-2019. Here is The main page for the 
+&lt;a href=&#34;https://secure-robots.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;SECURE project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -34,11 +36,23 @@
     </item>
     
     <item>
-      <title>SECURE Project</title>
-      <link>/project/converge/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/converge/</guid>
-      <description></description>
+      <title>CONVERGENT Project</title>
+      <link>/project/convergent/</link>
+      <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/project/convergent/</guid>
+      <description>&lt;p&gt;I was part of the CONVERGENT project between 2012-2015. Here is The main page for the 
+&lt;a href=&#34;http://robotics.ozyegin.edu.tr/convergent-human-learning-for-robot-skill-generation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;CONVERGENT project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S3NW0hr72mU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BtewbdaRQc0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
   </channel>
