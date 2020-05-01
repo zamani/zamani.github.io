@@ -4,7 +4,42 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-01-30T00:00:00+01:00</lastmod>
+    <lastmod>2020-04-23T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/aric2020/</loc>
+    <lastmod>2020-04-23T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/hitec_automl_2020/</loc>
+    <lastmod>2020-02-07T10:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/hitec_gpbo2020/</loc>
+    <lastmod>2020-01-13T10:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/human-robot-interaction/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/secure/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,22 +93,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-01-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/egor-lakomkin/</loc>
     <lastmod>2019-01-25T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/emotion-recognition/</loc>
-    <lastmod>2019-01-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/human-robot-interaction/</loc>
     <lastmod>2019-01-25T00:00:00+01:00</lastmod>
   </url>
   
@@ -203,22 +228,7 @@
   </url>
   
   <url>
-    <loc>/project/secure/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/instructing_arm_robot/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/converge/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -280,6 +290,11 @@
   <url>
     <loc>/talk/wtm_2016/</loc>
     <lastmod>2016-05-31T14:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/convergent/</loc>
+    <lastmod>2015-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>

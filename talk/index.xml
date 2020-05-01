@@ -1,16 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks and Presentations | Academic</title>
+    <title>Talks, Presentations, and Workshops | Mohammad Ali Zamani</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks and Presentations</description>
+    <description>Talks, Presentations, and Workshops</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Talks and Presentations</title>
+      <url>/images/icon_hu2ee4088727a1a9658601b209b56ffe69_259266_512x512_fill_lanczos_center_2.png</url>
+      <title>Talks, Presentations, and Workshops</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Workshop on Deep Neural Learning and Bayesian Optimization of Hyperparameters</title>
+      <link>/talk/aric2020/</link>
+      <pubDate>Thu, 23 Apr 2020 20:00:00 +0200</pubDate>
+      <guid>/talk/aric2020/</guid>
+      <description>&lt;p&gt;The (online) workshop is  organized   by  Hamburger Informatik Technologie-Center e.V. (HITeC) and Artificial Intelligence Center Hamburg e.V. (ARIC) on 9th, 16th, and 23rd April 2020. The focus of the workshop was on optimizing hyperparameters of deep learning models with Bayesian optimization. In this workshop, participants learned how to write searchable deep learning models in Pytorch and searching for hyperparameters with one of the latest AutoML methods. Bayesian Optimization and HyperBand (
+&lt;a href=&#34;https://www.automl.org/automl/bohb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BOHB&lt;/em&gt;&lt;/a&gt;) is introduced for hyperparameter optimization. On each day, there was a practical session for implementing the concepts on Google Colaboratory.&lt;/p&gt;
+&lt;p&gt;The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Day 1 (09.04.2020) Introduction to Neural Network
+&lt;ul&gt;
+&lt;li&gt;Basics of Neural Network&lt;/li&gt;
+&lt;li&gt;Basics of Pytorch&lt;/li&gt;
+&lt;li&gt;Multi-Layer Perceptron&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 2 (16.04.2020) Convolutional Neural Network
+&lt;ul&gt;
+&lt;li&gt;Questions from the previous session&lt;/li&gt;
+&lt;li&gt;Basics of Convolutional Neural Network&lt;/li&gt;
+&lt;li&gt;Convolutional Neural Network in Pytorch&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 3 (23.04.2020) Bayesian Optimization
+&lt;ul&gt;
+&lt;li&gt;Questions from the previous session&lt;/li&gt;
+&lt;li&gt;Introduction of Bayesian Optimization&lt;/li&gt;
+&lt;li&gt;Introduction of BOHB Framework&lt;/li&gt;
+&lt;li&gt;Writing a Searchable Architecture&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Deep Learning with Pytorch and AutoML</title>
+      <link>/talk/hitec_automl_2020/</link>
+      <pubDate>Fri, 07 Feb 2020 10:30:00 +0100</pubDate>
+      <guid>/talk/hitec_automl_2020/</guid>
+      <description>&lt;p&gt;My second internal workshop at HITeC was about deep learning with Pytorch and AutoML. I introduced the basics of deep learning and how to implement a classification problem in Pytorch. Then, I introduced one of the latest AutoML approach called 
+&lt;a href=&#34;https://www.automl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BOHB&lt;/em&gt;&lt;/a&gt; for hyperparameter optimization. At the end of the workshop, we had hands-on session for hyperparameter search for a 2-D classification problem. The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep Learning with Pytorch&lt;/li&gt;
+&lt;li&gt;AutoML&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Gaussian Process and Bayesian Optimization</title>
+      <link>/talk/hitec_gpbo2020/</link>
+      <pubDate>Mon, 13 Jan 2020 10:30:00 +0100</pubDate>
+      <guid>/talk/hitec_gpbo2020/</guid>
+      <description>&lt;p&gt;I had an internal workshop at HITeC on Introduction to Gaussian Process and Bayesian Optimization. The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics from Statistics&lt;/li&gt;
+&lt;li&gt;Gaussian Process&lt;/li&gt;
+&lt;li&gt;Bayesian Optimization&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>2 poster presentations at IROS 2018</title>

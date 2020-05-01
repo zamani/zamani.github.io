@@ -1,16 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Mohammad Ali Zamani</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <description>Mohammad Ali Zamani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2020 20:00:00 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <url>/images/icon_hu2ee4088727a1a9658601b209b56ffe69_259266_512x512_fill_lanczos_center_2.png</url>
+      <title>Mohammad Ali Zamani</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Workshop on Deep Neural Learning and Bayesian Optimization of Hyperparameters</title>
+      <link>/talk/aric2020/</link>
+      <pubDate>Thu, 23 Apr 2020 20:00:00 +0200</pubDate>
+      <guid>/talk/aric2020/</guid>
+      <description>&lt;p&gt;The (online) workshop is  organized   by  Hamburger Informatik Technologie-Center e.V. (HITeC) and Artificial Intelligence Center Hamburg e.V. (ARIC) on 9th, 16th, and 23rd April 2020. The focus of the workshop was on optimizing hyperparameters of deep learning models with Bayesian optimization. In this workshop, participants learned how to write searchable deep learning models in Pytorch and searching for hyperparameters with one of the latest AutoML methods. Bayesian Optimization and HyperBand (
+&lt;a href=&#34;https://www.automl.org/automl/bohb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BOHB&lt;/em&gt;&lt;/a&gt;) is introduced for hyperparameter optimization. On each day, there was a practical session for implementing the concepts on Google Colaboratory.&lt;/p&gt;
+&lt;p&gt;The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Day 1 (09.04.2020) Introduction to Neural Network
+&lt;ul&gt;
+&lt;li&gt;Basics of Neural Network&lt;/li&gt;
+&lt;li&gt;Basics of Pytorch&lt;/li&gt;
+&lt;li&gt;Multi-Layer Perceptron&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 2 (16.04.2020) Convolutional Neural Network
+&lt;ul&gt;
+&lt;li&gt;Questions from the previous session&lt;/li&gt;
+&lt;li&gt;Basics of Convolutional Neural Network&lt;/li&gt;
+&lt;li&gt;Convolutional Neural Network in Pytorch&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 3 (23.04.2020) Bayesian Optimization
+&lt;ul&gt;
+&lt;li&gt;Questions from the previous session&lt;/li&gt;
+&lt;li&gt;Introduction of Bayesian Optimization&lt;/li&gt;
+&lt;li&gt;Introduction of BOHB Framework&lt;/li&gt;
+&lt;li&gt;Writing a Searchable Architecture&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Deep Learning with Pytorch and AutoML</title>
+      <link>/talk/hitec_automl_2020/</link>
+      <pubDate>Fri, 07 Feb 2020 10:30:00 +0100</pubDate>
+      <guid>/talk/hitec_automl_2020/</guid>
+      <description>&lt;p&gt;My second internal workshop at HITeC was about deep learning with Pytorch and AutoML. I introduced the basics of deep learning and how to implement a classification problem in Pytorch. Then, I introduced one of the latest AutoML approach called 
+&lt;a href=&#34;https://www.automl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BOHB&lt;/em&gt;&lt;/a&gt; for hyperparameter optimization. At the end of the workshop, we had hands-on session for hyperparameter search for a 2-D classification problem. The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep Learning with Pytorch&lt;/li&gt;
+&lt;li&gt;AutoML&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Gaussian Process and Bayesian Optimization</title>
+      <link>/talk/hitec_gpbo2020/</link>
+      <pubDate>Mon, 13 Jan 2020 10:30:00 +0100</pubDate>
+      <guid>/talk/hitec_gpbo2020/</guid>
+      <description>&lt;p&gt;I had an internal workshop at HITeC on Introduction to Gaussian Process and Bayesian Optimization. The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics from Statistics&lt;/li&gt;
+&lt;li&gt;Gaussian Process&lt;/li&gt;
+&lt;li&gt;Bayesian Optimization&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SECURE Project</title>
+      <link>/project/secure/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/project/secure/</guid>
+      <description>&lt;p&gt;I was part of the SECURE project between 2016-2019. Here is The main page for the 
+&lt;a href=&#34;https://secure-robots.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;SECURE project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deep reinforcement learning using compositional representations for performing instructions</title>
@@ -296,14 +373,6 @@ I explained our project to Dimitrios Papadimoulis, Vice President of the Europea
     </item>
     
     <item>
-      <title>Converge Project</title>
-      <link>/project/secure/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/secure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Robot that performs language instructions</title>
       <link>/project/instructing_arm_robot/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
@@ -314,14 +383,6 @@ I explained our project to Dimitrios Papadimoulis, Vice President of the Europea
 &lt;p&gt;To work with our robot, a user can wake up the robot by its name &amp;ldquo;Jarvis&amp;rdquo;. Then, the robot confirms that is ready to receive a new command by saying &amp;ldquo;Yes!&amp;quot;. After hearing the confirmation, the user give a command such as &amp;ldquo;Pick cube number 5 and put it near cube numebr 1&amp;rdquo;. Although, we had our own domain-specific ASR model, due to operating condition which was in an extremely noisy condition we used the Google ASR. We ask the Google ASR the top most probable hypotheses. These hypotheses are used to identify the intended cubes as well as a target position for the picked cube. If there was no target position is commanded then robot performed a handover when users says &amp;ldquo;Release!&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Using a top camera robot locates the cubes using the April tags on top each cubes and using moveIt! package it plans and performs the trajectory to reach to the cube. Jarvis can grasp the cube using a electomagnet which is installed at the end-effector of the robot. There is also a metal piece is attached to the top of the cubes.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>SECURE Project</title>
-      <link>/project/converge/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/converge/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -440,6 +501,26 @@ Spoken language is one of the most efficient ways to instruct robots about perfo
       <guid>/talk/wtm_2016/</guid>
       <description>&lt;p&gt;Abstract:
 In the future, robots are expected to work as a companion with humans in various areas ranging from service robots to humanoid robots. Dynamic and unpredictable human/domestic environments force developers to improve safety for human-robot cooperation. One natural approach for humans is to warn about threats using natural spoken language. Then, robots should be able to modulate safer actions by a syntactic/semantic understanding of those warnings. In pour research deep neural networks will be used as the main learning approach of the natural language processing part. However, besides warning messages, other modalities seem necessary to gain a better understanding of threats such as prosody and vision. Generating safer actions depending on context can be performed by reinforcement learning or simply by choosing from an available action set. Moreover, possible tasks and scenarios as well as datasets and platforms will be discussed in this talk&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CONVERGENT Project</title>
+      <link>/project/convergent/</link>
+      <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/project/convergent/</guid>
+      <description>&lt;p&gt;I was part of the CONVERGENT project between 2012-2015. Here is The main page for the 
+&lt;a href=&#34;http://robotics.ozyegin.edu.tr/convergent-human-learning-for-robot-skill-generation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;CONVERGENT project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S3NW0hr72mU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BtewbdaRQc0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
