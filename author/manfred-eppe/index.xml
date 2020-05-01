@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manfred Eppe | Academic</title>
+    <link>/author/manfred-eppe/</link>
+      <atom:link href="/author/manfred-eppe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manfred Eppe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Manfred Eppe</title>
+      <link>/author/manfred-eppe/</link>
+    </image>
+    
+    <item>
+      <title>Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm</title>
+      <link>/publication/iros2018_ws/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/iros2018_ws/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1375&#34; height=&#34;422&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

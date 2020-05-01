@@ -1,160 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mohammad Ali Zamani</title>
+    <title>Tags | Academic</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Mohammad Ali Zamani</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Mohammad Ali Zamani 2018</copyright>
-    <lastBuildDate>Wed, 05 Dec 2018 01:05:05 +0100</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Arm robot</title>
-      <link>/tags/arm-robot/</link>
-      <pubDate>Wed, 05 Dec 2018 01:05:05 +0100</pubDate>
-      
-      <guid>/tags/arm-robot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emotion Recognition</title>
-      <link>/tags/emotion-recognition/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/emotion-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human-Robot Interaction</title>
-      <link>/tags/human-robot-interaction/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/human-robot-interaction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human-in-the-loop</title>
-      <link>/tags/human-in-the-loop/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/human-in-the-loop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human-robot Interaction</title>
-      <link>/tags/human-robot-interaction/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/human-robot-interaction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Imitation Learning</title>
-      <link>/tags/imitation-learning/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/imitation-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning by Demonstration</title>
-      <link>/tags/learning-by-demonstration/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/learning-by-demonstration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manipulation</title>
-      <link>/tags/manipulation/</link>
-      <pubDate>Wed, 05 Dec 2018 01:05:05 +0100</pubDate>
-      
-      <guid>/tags/manipulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>/tags/natural-language-processing/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ROS</title>
-      <link>/tags/ros/</link>
-      <pubDate>Wed, 05 Dec 2018 01:05:05 +0100</pubDate>
-      
-      <guid>/tags/ros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>/tags/reinforcement-learning/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robot Manipulation</title>
-      <link>/tags/robot-manipulation/</link>
-      <pubDate>Fri, 05 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/robot-manipulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentiment Recognition</title>
-      <link>/tags/sentiment-recognition/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/sentiment-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spoken Language Instruction</title>
-      <link>/tags/spoken-language-instruction/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/spoken-language-instruction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>demos</title>
-      <link>/tags/demos/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/demos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>human-robot interaction</title>
-      <link>/tags/human-robot-interaction/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/human-robot-interaction/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
     
   </channel>
 </rss>

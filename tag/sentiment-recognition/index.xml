@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentiment Recognition | Academic</title>
+    <link>/tag/sentiment-recognition/</link>
+      <atom:link href="/tag/sentiment-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sentiment Recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sentiment Recognition</title>
+      <link>/tag/sentiment-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Incorporating End-to-End Speech Recognition Models for Sentiment Analysis</title>
+      <link>/publication/icra2019/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/icra2019/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/g1Xkq2AUGl8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

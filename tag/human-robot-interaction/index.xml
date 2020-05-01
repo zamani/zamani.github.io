@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>human-robot interaction | Academic</title>
+    <link>/tag/human-robot-interaction/</link>
+      <atom:link href="/tag/human-robot-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>human-robot interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>human-robot interaction</title>
+      <link>/tag/human-robot-interaction/</link>
+    </image>
+    
+    <item>
+      <title>Incorporating End-to-End Speech Recognition Models for Sentiment Analysis</title>
+      <link>/publication/icra2019/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/icra2019/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/g1Xkq2AUGl8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>On the Robustness of Speech Emotion Recognition for Human-Robot Interaction with Deep Neural Networks</title>
+      <link>/publication/iros2018/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/iros2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-modulated Actions using Deep Reinforcement Learning for Safer Human-Robot Interaction</title>
+      <link>/publication/ssr2018/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/ssr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmoRL: Real-time Acoustic Emotion Classification using Deep Reinforcement Learning</title>
+      <link>/publication/emorl/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/emorl/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bheIo0RUwT0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Converge Project</title>
+      <link>/project/secure/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/project/secure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot that performs language instructions</title>
+      <link>/project/instructing_arm_robot/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/project/instructing_arm_robot/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Click&lt;/em&gt; 
+&lt;a href=&#34;/outreach/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt; &lt;em&gt;for more photos&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Spoken language is potentially the most intuitive way to communicate with robot. In this project, we assembled an arm robot to demonstrate to public, especially younger kids, how they can instruct robot to perform actions. This project includes automatic speech recognition (ASR), text to speech, spoken language understanding, vision, and motion planning.&lt;/p&gt;
+&lt;p&gt;To work with our robot, a user can wake up the robot by its name &amp;ldquo;Jarvis&amp;rdquo;. Then, the robot confirms that is ready to receive a new command by saying &amp;ldquo;Yes!&amp;quot;. After hearing the confirmation, the user give a command such as &amp;ldquo;Pick cube number 5 and put it near cube numebr 1&amp;rdquo;. Although, we had our own domain-specific ASR model, due to operating condition which was in an extremely noisy condition we used the Google ASR. We ask the Google ASR the top most probable hypotheses. These hypotheses are used to identify the intended cubes as well as a target position for the picked cube. If there was no target position is commanded then robot performed a handover when users says &amp;ldquo;Release!&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Using a top camera robot locates the cubes using the April tags on top each cubes and using moveIt! package it plans and performs the trajectory to reach to the cube. Jarvis can grasp the cube using a electomagnet which is installed at the end-effector of the robot. There is also a metal piece is attached to the top of the cubes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SECURE Project</title>
+      <link>/project/converge/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/project/converge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Human-Robot Adaptation for Effective Skill Transfer</title>
+      <link>/publication/icar2015/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0200</pubDate>
+      <guid>/publication/icar2015/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;643&#34; height=&#34;256&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S3NW0hr72mU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthias Kerzel | Academic</title>
+    <link>/author/matthias-kerzel/</link>
+      <atom:link href="/author/matthias-kerzel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthias Kerzel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Matthias Kerzel</title>
+      <link>/author/matthias-kerzel/</link>
+    </image>
+    
+    <item>
+      <title>Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm</title>
+      <link>/publication/iros2018_ws/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/iros2018_ws/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1375&#34; height=&#34;422&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Spatial Representation for Safe Human-Robot Collaboration in Joint Manual Tasks</title>
+      <link>/publication/icra2018_workmate_ws/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/icra2018_workmate_ws/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/icra_2018_workmate.png&#34; &gt;
+
+
+  &lt;img src=&#34;/img/icra_2018_workmate.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/M9u8IcmKRbI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Deep Continuous Reinforcement Learning through Task Simplification</title>
+      <link>/publication/ijcnn2018/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/ijcnn2018/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;516&#34; height=&#34;548&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

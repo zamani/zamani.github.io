@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Mohammad Ali Zamani</title>
+    <title>Publications | Academic</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Mohammad Ali Zamani</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Mohammad Ali Zamani 2018</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
       <title>Deep reinforcement learning using compositional representations for performing instructions</title>
       <link>/publication/paladyn/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>/publication/paladyn/</guid>
       <description></description>
     </item>
@@ -25,25 +24,58 @@
       <title>Incorporating End-to-End Speech Recognition Models for Sentiment Analysis</title>
       <link>/publication/icra2019/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>/publication/icra2019/</guid>
-      <description>   </description>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/g1Xkq2AUGl8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
       <title>Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm</title>
       <link>/publication/iros2018_ws/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0200</pubDate>
-      
       <guid>/publication/iros2018_ws/</guid>
-      <description>   </description>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1375&#34; height=&#34;422&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
       <title>On the Robustness of Speech Emotion Recognition for Human-Robot Interaction with Deep Neural Networks</title>
       <link>/publication/iros2018/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0200</pubDate>
-      
       <guid>/publication/iros2018/</guid>
       <description></description>
     </item>
@@ -52,7 +84,6 @@
       <title>Language-modulated Actions using Deep Reinforcement Learning for Safer Human-Robot Interaction</title>
       <link>/publication/ssr2018/</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
-      
       <guid>/publication/ssr2018/</guid>
       <description></description>
     </item>
@@ -61,54 +92,214 @@
       <title>Learning Spatial Representation for Safe Human-Robot Collaboration in Joint Manual Tasks</title>
       <link>/publication/icra2018_workmate_ws/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0200</pubDate>
-      
       <guid>/publication/icra2018_workmate_ws/</guid>
-      <description>     </description>
+      <description>&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/icra_2018_workmate.png&#34; &gt;
+
+
+  &lt;img src=&#34;/img/icra_2018_workmate.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/M9u8IcmKRbI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>EmoRL: Real-time Acoustic Emotion Classification using Deep Reinforcement Learning</title>
       <link>/publication/emorl/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0200</pubDate>
-      
       <guid>/publication/emorl/</guid>
-      <description>   </description>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bheIo0RUwT0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
       <title>Language-modulated Safer Actions using Deep Reinforcement Learning</title>
       <link>/publication/icra2018_phd_forum/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0200</pubDate>
-      
       <guid>/publication/icra2018_phd_forum/</guid>
-      <description>   </description>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;421&#34; height=&#34;169&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
       <title>Accelerating Deep Continuous Reinforcement Learning through Task Simplification</title>
       <link>/publication/ijcnn2018/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0200</pubDate>
-      
       <guid>/publication/ijcnn2018/</guid>
-      <description>   </description>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;516&#34; height=&#34;548&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
       <title>Deep Reinforcement Learning using Symbolic Representation for Performing Spoken Language Instructions</title>
       <link>/publication/roman2017/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0200</pubDate>
-      
       <guid>/publication/roman2017/</guid>
-      <description>   </description>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured1.png&#34; &gt;
+
+
+  &lt;img src=&#34;featured1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
       <title>Simultaneous Human-Robot Adaptation for Effective Skill Transfer</title>
       <link>/publication/icar2015/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0200</pubDate>
-      
       <guid>/publication/icar2015/</guid>
-      <description>     </description>
+      <description>&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;643&#34; height=&#34;256&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S3NW0hr72mU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning by Demonstration | Academic</title>
+    <link>/tag/learning-by-demonstration/</link>
+      <atom:link href="/tag/learning-by-demonstration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning by Demonstration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Learning by Demonstration</title>
+      <link>/tag/learning-by-demonstration/</link>
+    </image>
+    
+    <item>
+      <title>Simultaneous Human-Robot Adaptation for Effective Skill Transfer</title>
+      <link>/publication/icar2015/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0200</pubDate>
+      <guid>/publication/icar2015/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;643&#34; height=&#34;256&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S3NW0hr72mU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
