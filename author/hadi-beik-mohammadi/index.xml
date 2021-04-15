@@ -5,12 +5,48 @@
     <link>/author/hadi-beik-mohammadi/</link>
       <atom:link href="/author/hadi-beik-mohammadi/index.xml" rel="self" type="application/rss+xml" />
     <description>Hadi Beik-Mohammadi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu2ee4088727a1a9658601b209b56ffe69_259266_512x512_fill_lanczos_center_2.png</url>
       <title>Hadi Beik-Mohammadi</title>
       <link>/author/hadi-beik-mohammadi/</link>
     </image>
+    
+    <item>
+      <title>Mixed-Reality Deep Reinforcement Learning for a Reach-to-grasp Task</title>
+      <link>/publication/icann2019/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>/publication/icann2019/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
+
+
+  &lt;img src=&#34;featured.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm</title>
