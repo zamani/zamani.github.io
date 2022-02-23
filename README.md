@@ -1,1 +1,0 @@
-# zamani.github.io
