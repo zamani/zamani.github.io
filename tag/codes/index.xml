@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes | Mohammad Ali Zamani</title>
+    <link>zamani.ai/tag/codes/</link>
+      <atom:link href="zamani.ai/tag/codes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Codes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/zamani.ai/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
+      <title>Codes</title>
+      <link>zamani.ai/tag/codes/</link>
+    </image>
+    
+    <item>
+      <title>My codes</title>
+      <link>zamani.ai/post/getting-started/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>zamani.ai/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;I will publish some of my codess here:
+&lt;a href=&#34;https://github.com/zamani&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/zamani&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks, Presentations, and Workshops | Mohammad Ali Zamani</title>
+    <link>zamani.ai/talk/</link>
+      <atom:link href="zamani.ai/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks, Presentations, and Workshops</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/zamani.ai/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks, Presentations, and Workshops</title>
+      <link>zamani.ai/talk/</link>
+    </image>
+    
+    <item>
+      <title>Workshop on Reinfocement Learning</title>
+      <link>zamani.ai/talk/rl_ws_2021/</link>
+      <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
+      <guid>zamani.ai/talk/rl_ws_2021/</guid>
+      <description>&lt;p&gt;In collaboration with ARIC, I had my second workshop on reinforcement learning. This workshop was followed by a hands-on session about RL.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Acoustic Emotion Classification using Recurrent Neural Network</title>
+      <link>zamani.ai/talk/brown_bag_2020/</link>
+      <pubDate>Thu, 13 Aug 2020 12:00:00 +0000</pubDate>
+      <guid>zamani.ai/talk/brown_bag_2020/</guid>
+      <description>&lt;p&gt;I was invited as speaker to the Remote Brown Bag Sessions which are orginized by Artificial Intelligence Center Hamburg (ARIC). In this talk, I presented our work on Continuous Acoustic Emotion Classification which we could reduce latency and improve the accuracy for critical cases. You can find  the list of talks orginized by ARIC &lt;a href=&#34;https://github.com/aric-hamburg/remote-brown-bag-sessions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Deep Neural Learning and Bayesian Optimization of Hyperparameters</title>
+      <link>zamani.ai/talk/aric2020/</link>
+      <pubDate>Thu, 23 Apr 2020 20:00:00 +0000</pubDate>
+      <guid>zamani.ai/talk/aric2020/</guid>
+      <description>&lt;p&gt;The (online) workshop is  organized   by  Hamburger Informatik Technologie-Center e.V. (HITeC) and Artificial Intelligence Center Hamburg e.V. (ARIC) on 9th, 16th, and 23rd April 2020. The focus of the workshop was on optimizing hyperparameters of deep learning models with Bayesian optimization. In this workshop, participants learned how to write searchable deep learning models in Pytorch and searching for hyperparameters with one of the latest AutoML methods. Bayesian Optimization and HyperBand (&lt;a href=&#34;https://www.automl.org/automl/bohb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BOHB&lt;/em&gt;&lt;/a&gt;) is introduced for hyperparameter optimization. On each day, there was a practical session for implementing the concepts on Google Colaboratory.&lt;/p&gt;
+&lt;p&gt;The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Day 1 (09.04.2020) Introduction to Neural Network
+&lt;ul&gt;
+&lt;li&gt;Basics of Neural Network&lt;/li&gt;
+&lt;li&gt;Basics of Pytorch&lt;/li&gt;
+&lt;li&gt;Multi-Layer Perceptron&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 2 (16.04.2020) Convolutional Neural Network
+&lt;ul&gt;
+&lt;li&gt;Questions from the previous session&lt;/li&gt;
+&lt;li&gt;Basics of Convolutional Neural Network&lt;/li&gt;
+&lt;li&gt;Convolutional Neural Network in Pytorch&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 3 (23.04.2020) Bayesian Optimization
+&lt;ul&gt;
+&lt;li&gt;Questions from the previous session&lt;/li&gt;
+&lt;li&gt;Introduction of Bayesian Optimization&lt;/li&gt;
+&lt;li&gt;Introduction of BOHB Framework&lt;/li&gt;
+&lt;li&gt;Writing a Searchable Architecture&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Deep Learning with Pytorch and AutoML</title>
+      <link>zamani.ai/talk/hitec_automl_2020/</link>
+      <pubDate>Fri, 07 Feb 2020 10:30:00 +0000</pubDate>
+      <guid>zamani.ai/talk/hitec_automl_2020/</guid>
+      <description>&lt;p&gt;My second internal workshop at HITeC was about deep learning with Pytorch and AutoML. I introduced the basics of deep learning and how to implement a classification problem in Pytorch. Then, I introduced one of the latest AutoML approach called &lt;a href=&#34;https://www.automl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BOHB&lt;/em&gt;&lt;/a&gt; for hyperparameter optimization. At the end of the workshop, we had hands-on session for hyperparameter search for a 2-D classification problem. The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep Learning with Pytorch&lt;/li&gt;
+&lt;li&gt;AutoML&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Gaussian Process and Bayesian Optimization</title>
+      <link>zamani.ai/talk/hitec_gpbo2020/</link>
+      <pubDate>Mon, 13 Jan 2020 10:30:00 +0000</pubDate>
+      <guid>zamani.ai/talk/hitec_gpbo2020/</guid>
+      <description>&lt;p&gt;I had an internal workshop at HITeC on Introduction to Gaussian Process and Bayesian Optimization. The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics from Statistics&lt;/li&gt;
+&lt;li&gt;Gaussian Process&lt;/li&gt;
+&lt;li&gt;Bayesian Optimization&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 poster presentations at IROS 2018</title>
+      <link>zamani.ai/talk/iros2018/</link>
+      <pubDate>Fri, 05 Oct 2018 16:30:00 +0000</pubDate>
+      <guid>zamani.ai/talk/iros2018/</guid>
+      <description>&lt;p&gt;I jointly presented our paper &lt;a href=&#34;zamani.ai/publication/iros2018/&#34;&gt;&lt;em&gt;On the Robustness of Speech Emotion Recognition for Human-Robot Interaction with Deep Neural Networks&lt;/em&gt;&lt;/a&gt; during the interactive section. Also, on the last day of the conference, I attended the &lt;em&gt;Machine Learning in Robot Motion Planning&lt;/em&gt; workshop to present our work on &lt;a href=&#34;zamani.ai/publication/iros2018_ws/&#34;&gt;&lt;em&gt;Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting my research progress</title>
+      <link>zamani.ai/talk/ssr2018/</link>
+      <pubDate>Fri, 28 Sep 2018 14:15:00 +0000</pubDate>
+      <guid>zamani.ai/talk/ssr2018/</guid>
+      <description>&lt;p&gt;We organized a PhD students conference focused safety and interaction quality. I also had a chance to present my &lt;a href=&#34;zamani.ai/publication/ssr2018/&#34;&gt;&lt;em&gt;progress&lt;/em&gt;&lt;/a&gt; in this conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3 poster presentation at ICRA 2018</title>
+      <link>zamani.ai/talk/icra2018/</link>
+      <pubDate>Tue, 22 May 2018 15:00:00 +0000</pubDate>
+      <guid>zamani.ai/talk/icra2018/</guid>
+      <description>&lt;p&gt;I presented 3 posters at ICRA main conference, Workmate workshop and PhD forum.&lt;/p&gt;
+&lt;p&gt;The first presentation was &lt;a href=&#34;zamani.ai/publication/emorl/&#34;&gt;&lt;em&gt;“Emorl: Continuous acoustic emotion classification using deep reinforcement learning”&lt;/em&gt;&lt;/a&gt; at ICRA 2018.&lt;/p&gt;
+&lt;p&gt;I also presented &lt;a href=&#34;zamani.ai/publication/icra2018_workmate_ws/&#34;&gt;&lt;em&gt;&amp;ldquo;Learning spatial representation for safe human-robot collaboration in joint manual tasks&amp;rdquo;&lt;/em&gt;&lt;/a&gt; at the Workmate workshop at ICRA 2018.&lt;/p&gt;
+&lt;p&gt;And finally, I presented my work on &lt;a href=&#34;zamani.ai/publication/icra2018_phd_forum/&#34;&gt;&lt;em&gt;&amp;ldquo;Language-modulated Actions for Safer Human-Robot Interaction using Deep Reinforcement Learning&amp;rdquo;&lt;/em&gt;&lt;/a&gt; as a poster in the ICRA 2018 Ph.D. forum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should We Be Afraid of Artificial Intelligence?</title>
+      <link>zamani.ai/talk/ham2018/</link>
+      <pubDate>Fri, 15 Dec 2017 17:30:00 +0000</pubDate>
+      <guid>zamani.ai/talk/ham2018/</guid>
+      <description>&lt;p&gt;In this presentation, I talked about AI and public concerns.  The purpose of the talk was to give some intuition for a public audience that what is the research focus and methodological tools in AI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting my work at BAILAR, ROMAN 2017</title>
+      <link>zamani.ai/talk/roman2017/</link>
+      <pubDate>Sun, 27 Aug 2017 11:40:00 +0000</pubDate>
+      <guid>zamani.ai/talk/roman2017/</guid>
+      <description>&lt;p&gt;I presented our work on &lt;a href=&#34;zamani.ai/publication/roman2017/&#34;&gt;&lt;em&gt;Deep Reinforcement Learning using Symbolic Representation for Performing Spoken Language Instructions&lt;/em&gt;&lt;/a&gt; at 2nd Workshop on Behavior Adaptation, Interaction and Learning for Assistive Robotics (BAILAR). This workshop was part of the 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminar Talk</title>
+      <link>zamani.ai/talk/wtm_2017/</link>
+      <pubDate>Sat, 17 Jun 2017 14:15:00 +0000</pubDate>
+      <guid>zamani.ai/talk/wtm_2017/</guid>
+      <description>&lt;p&gt;Abstract: 
+Spoken language is one of the most efficient ways to instruct robots about performing domestic tasks. However, the state of the environment has to be considered to successfully plan and execute the actions. We propose a system which can learn to recognize the user&amp;rsquo;s intention and map it to a goal for a reinforcement learning (RL) system. This system is then used to generate a sequence of actions toward this goal considering the state of the environment. Symbolic representations are used for both input and output of a Deep RL module. To show the effectiveness of our approach, the TellMeDave corpus is used to train the intention detection model and in a second step train the RL module towards the detected objective represented by a set of state predicates. We show that the system can successfully recognize instructions from this corpus and map them to the corresponding objective as well as train an RL system with symbolic input.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminar Talk</title>
+      <link>zamani.ai/talk/wtm_2016/</link>
+      <pubDate>Tue, 31 May 2016 14:15:00 +0000</pubDate>
+      <guid>zamani.ai/talk/wtm_2016/</guid>
+      <description>&lt;p&gt;Abstract: 
+In the future, robots are expected to work as a companion with humans in various areas ranging from service robots to humanoid robots. Dynamic and unpredictable human/domestic environments force developers to improve safety for human-robot cooperation. One natural approach for humans is to warn about threats using natural spoken language. Then, robots should be able to modulate safer actions by a syntactic/semantic understanding of those warnings. In pour research deep neural networks will be used as the main learning approach of the natural language processing part. However, besides warning messages, other modalities seem necessary to gain a better understanding of threats such as prosody and vision. Generating safer actions depending on context can be performed by reinforcement learning or simply by choosing from an available action set. Moreover, possible tasks and scenarios as well as datasets and platforms will be discussed in this talk&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
