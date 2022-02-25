@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Reinforcement Learning | Mohammad Ali Zamani</title>
+    <link>zamani.ai/tag/deep-reinforcement-learning/</link>
+      <atom:link href="zamani.ai/tag/deep-reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/zamani.ai/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Reinforcement Learning</title>
+      <link>zamani.ai/tag/deep-reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>SECURE Project</title>
+      <link>zamani.ai/project/secure/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>zamani.ai/project/secure/</guid>
+      <description>&lt;p&gt;I was part of the SECURE project between 2016-2019. Here is The main page for the &lt;a href=&#34;https://secure-robots.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;SECURE project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentiment Recognition | Mohammad Ali Zamani</title>
+    <link>zamani.ai/tag/sentiment-recognition/</link>
+      <atom:link href="zamani.ai/tag/sentiment-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sentiment Recognition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/zamani.ai/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
+      <title>Sentiment Recognition</title>
+      <link>zamani.ai/tag/sentiment-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Incorporating End-to-End Speech Recognition Models for Sentiment Analysis</title>
+      <link>zamani.ai/publication/icra2019/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>zamani.ai/publication/icra2019/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/g1Xkq2AUGl8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
