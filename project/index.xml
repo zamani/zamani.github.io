@@ -1,27 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
+    <title>Projects | Mohammad Ali Zamani</title>
     <link>https://zamani.github.io/project/</link>
       <atom:link href="https://zamani.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zamani.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zamani.github.io/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://zamani.github.io/project/</link>
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://zamani.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://zamani.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>VERIKAS</title>
+      <link>https://zamani.github.io/project/verikas/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/verikas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMPA</title>
+      <link>https://zamani.github.io/project/impa/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/impa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNEVIS - AI</title>
+      <link>https://zamani.github.io/project/unevis/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/unevis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SECURE Project</title>
+      <link>https://zamani.github.io/project/secure/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/secure/</guid>
+      <description>&lt;p&gt;I was part of the SECURE project between 2016-2019. Here is The main page for the &lt;a href=&#34;https://secure-robots.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;SECURE project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robot that performs language instructions</title>
+      <link>https://zamani.github.io/project/instructing_arm_robot/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/instructing_arm_robot/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Click&lt;/em&gt; &lt;a href=&#34;https://zamani.github.io/outreach/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt; &lt;em&gt;for more photos&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Spoken language is potentially the most intuitive way to communicate with robot. In this project, we assembled an arm robot to demonstrate to public, especially younger kids, how they can instruct robot to perform actions. This project includes automatic speech recognition (ASR), text to speech, spoken language understanding, vision, and motion planning.&lt;/p&gt;
+&lt;p&gt;To work with our robot, a user can wake up the robot by its name &amp;ldquo;Jarvis&amp;rdquo;. Then, the robot confirms that is ready to receive a new command by saying &amp;ldquo;Yes!&amp;rdquo;. After hearing the confirmation, the user give a command such as &amp;ldquo;Pick cube number 5 and put it near cube numebr 1&amp;rdquo;. Although, we had our own domain-specific ASR model, due to operating condition which was in an extremely noisy condition we used the Google ASR. We ask the Google ASR the top most probable hypotheses. These hypotheses are used to identify the intended cubes as well as a target position for the picked cube. If there was no target position is commanded then robot performed a handover when users says &amp;ldquo;Release!&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Using a top camera robot locates the cubes using the April tags on top each cubes and using moveIt! package it plans and performs the trajectory to reach to the cube. Jarvis can grasp the cube using a electomagnet which is installed at the end-effector of the robot. There is also a metal piece is attached to the top of the cubes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CONVERGENT Project</title>
+      <link>https://zamani.github.io/project/convergent/</link>
+      <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/convergent/</guid>
+      <description>&lt;p&gt;I was part of the CONVERGENT project between 2012-2015. Here is The main page for the &lt;a href=&#34;https://robotics.ozyegin.edu.tr/convergent-human-learning-for-robot-skill-generation/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;CONVERGENT project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S3NW0hr72mU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BtewbdaRQc0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     

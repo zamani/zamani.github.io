@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natural Language Processing | Mohammad Ali Zamani</title>
-    <link>zamani.ai/tag/natural-language-processing/</link>
-      <atom:link href="zamani.ai/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zamani.github.io/tag/natural-language-processing/</link>
+      <atom:link href="https://zamani.github.io/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Natural Language Processing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/zamani.ai/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zamani.github.io/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
       <title>Natural Language Processing</title>
-      <link>zamani.ai/tag/natural-language-processing/</link>
+      <link>https://zamani.github.io/tag/natural-language-processing/</link>
     </image>
     
     <item>
       <title>Language-modulated Actions using Deep Reinforcement Learning for Safer Human-Robot Interaction</title>
-      <link>zamani.ai/publication/ssr2018/</link>
+      <link>https://zamani.github.io/publication/ssr2018/</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>zamani.ai/publication/ssr2018/</guid>
+      <guid>https://zamani.github.io/publication/ssr2018/</guid>
       <description></description>
     </item>
     

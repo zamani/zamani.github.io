@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Mohammad Ali Zamani</title>
     <link>https://zamani.github.io/</link>
       <atom:link href="https://zamani.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Mohammad Ali Zamani</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zamani.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <url>https://zamani.github.io/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
+      <title>Mohammad Ali Zamani</title>
       <link>https://zamani.github.io/</link>
     </image>
     
@@ -33,79 +33,129 @@
     </item>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <title>My codes</title>
       <link>https://zamani.github.io/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://zamani.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;p&gt;I will publish some of my codess here:
+&lt;a href=&#34;https://github.com/zamani&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/zamani&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VERIKAS</title>
+      <link>https://zamani.github.io/project/verikas/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/verikas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop on Reinfocement Learning</title>
+      <link>https://zamani.github.io/talk/rl_ws_2021/</link>
+      <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/rl_ws_2021/</guid>
+      <description>&lt;p&gt;In collaboration with ARIC, I had my second workshop on reinforcement learning. This workshop was followed by a hands-on session about RL.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMPA</title>
+      <link>https://zamani.github.io/project/impa/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/impa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Acoustic Emotion Classification using Recurrent Neural Network</title>
+      <link>https://zamani.github.io/talk/brown_bag_2020/</link>
+      <pubDate>Thu, 13 Aug 2020 12:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/brown_bag_2020/</guid>
+      <description>&lt;p&gt;I was invited as speaker to the Remote Brown Bag Sessions which are orginized by Artificial Intelligence Center Hamburg (ARIC). In this talk, I presented our work on Continuous Acoustic Emotion Classification which we could reduce latency and improve the accuracy for critical cases. You can find  the list of talks orginized by ARIC &lt;a href=&#34;https://github.com/aric-hamburg/remote-brown-bag-sessions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UNEVIS - AI</title>
+      <link>https://zamani.github.io/project/unevis/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/unevis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop on Deep Neural Learning and Bayesian Optimization of Hyperparameters</title>
+      <link>https://zamani.github.io/talk/aric2020/</link>
+      <pubDate>Thu, 23 Apr 2020 20:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/aric2020/</guid>
+      <description>&lt;p&gt;The (online) workshop is  organized   by  Hamburger Informatik Technologie-Center e.V. (HITeC) and Artificial Intelligence Center Hamburg e.V. (ARIC) on 9th, 16th, and 23rd April 2020. The focus of the workshop was on optimizing hyperparameters of deep learning models with Bayesian optimization. In this workshop, participants learned how to write searchable deep learning models in Pytorch and searching for hyperparameters with one of the latest AutoML methods. Bayesian Optimization and HyperBand (&lt;a href=&#34;https://www.automl.org/automl/bohb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BOHB&lt;/em&gt;&lt;/a&gt;) is introduced for hyperparameter optimization. On each day, there was a practical session for implementing the concepts on Google Colaboratory.&lt;/p&gt;
+&lt;p&gt;The content of the workshop was:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;li&gt;Day 1 (09.04.2020) Introduction to Neural Network
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;li&gt;Basics of Neural Network&lt;/li&gt;
+&lt;li&gt;Basics of Pytorch&lt;/li&gt;
+&lt;li&gt;Multi-Layer Perceptron&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 2 (16.04.2020) Convolutional Neural Network
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;li&gt;Questions from the previous session&lt;/li&gt;
+&lt;li&gt;Basics of Convolutional Neural Network&lt;/li&gt;
+&lt;li&gt;Convolutional Neural Network in Pytorch&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 3 (23.04.2020) Bayesian Optimization
+&lt;ul&gt;
+&lt;li&gt;Questions from the previous session&lt;/li&gt;
+&lt;li&gt;Introduction of Bayesian Optimization&lt;/li&gt;
+&lt;li&gt;Introduction of BOHB Framework&lt;/li&gt;
+&lt;li&gt;Writing a Searchable Architecture&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Deep Learning with Pytorch and AutoML</title>
+      <link>https://zamani.github.io/talk/hitec_automl_2020/</link>
+      <pubDate>Fri, 07 Feb 2020 10:30:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/hitec_automl_2020/</guid>
+      <description>&lt;p&gt;My second internal workshop at HITeC was about deep learning with Pytorch and AutoML. I introduced the basics of deep learning and how to implement a classification problem in Pytorch. Then, I introduced one of the latest AutoML approach called &lt;a href=&#34;https://www.automl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BOHB&lt;/em&gt;&lt;/a&gt; for hyperparameter optimization. At the end of the workshop, we had hands-on session for hyperparameter search for a 2-D classification problem. The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep Learning with Pytorch&lt;/li&gt;
+&lt;li&gt;AutoML&lt;/li&gt;
+&lt;li&gt;Hands-on Session&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Gaussian Process and Bayesian Optimization</title>
+      <link>https://zamani.github.io/talk/hitec_gpbo2020/</link>
+      <pubDate>Mon, 13 Jan 2020 10:30:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/hitec_gpbo2020/</guid>
+      <description>&lt;p&gt;I had an internal workshop at HITeC on Introduction to Gaussian Process and Bayesian Optimization. The content of the workshop was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics from Statistics&lt;/li&gt;
+&lt;li&gt;Gaussian Process&lt;/li&gt;
+&lt;li&gt;Bayesian Optimization&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SECURE Project</title>
+      <link>https://zamani.github.io/project/secure/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/secure/</guid>
+      <description>&lt;p&gt;I was part of the SECURE project between 2016-2019. Here is The main page for the &lt;a href=&#34;https://secure-robots.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;SECURE project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -239,23 +289,525 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://zamani.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://zamani.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Deep reinforcement learning using compositional representations for performing instructions</title>
+      <link>https://zamani.github.io/publication/paladyn/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/paladyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating End-to-End Speech Recognition Models for Sentiment Analysis</title>
+      <link>https://zamani.github.io/publication/icra2019/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/icra2019/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/g1Xkq2AUGl8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>1) European Researchers&#39; Night:</title>
+      <link>https://zamani.github.io/outreach/msca/</link>
+      <pubDate>Wed, 05 Dec 2018 01:05:05 +0100</pubDate>
+      <guid>https://zamani.github.io/outreach/msca/</guid>
+      <description>&lt;p&gt;We demonstrated our project &amp;quot; robot that learns how to perform language instructions&amp;quot; in  ‘Science is Wonder-ful!’, on September 26-27 2018. Our project shows the ability of robots to understand spoken instructions which was working a noisy condition.You can see more details &lt;a href=&#34;https://zamani.github.io/project/instructing_arm_robot/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zamani.github.io/img/msca3.png&#34; alt=&#34;&amp;amp;quot;(https://ec.europa.eu/research/mariecurieactions/)&amp;amp;quot;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+I explained our project to Dimitrios Papadimoulis, Vice President of the European Parliament. (Image credit: &lt;a href=&#34;https://ec.europa.eu/research/mariecurieactions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;European Comission - MSCA&lt;/strong&gt;&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zamani.github.io/img/msca0.png&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zamani.github.io/img/msca1.jpg&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zamani.github.io/img/msca2.jpg&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zamani.github.io/img/msca4.jpg&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zamani.github.io/img/msca5.png&#34; alt=&#34;Mohammad Ali Zamani, Robot that understands spoken instructions&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;You can find the video here:
+&lt;video src=&#34;https://ec.europa.eu/research/mariecurieactions/sites/mariecurie2/files/science-is-wonderful-video-2018_3.mp4&#34; width=&#34;840&#34; controls&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 poster presentations at IROS 2018</title>
+      <link>https://zamani.github.io/talk/iros2018/</link>
+      <pubDate>Fri, 05 Oct 2018 16:30:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/iros2018/</guid>
+      <description>&lt;p&gt;I jointly presented our paper &lt;a href=&#34;https://zamani.github.io/publication/iros2018/&#34;&gt;&lt;em&gt;On the Robustness of Speech Emotion Recognition for Human-Robot Interaction with Deep Neural Networks&lt;/em&gt;&lt;/a&gt; during the interactive section. Also, on the last day of the conference, I attended the &lt;em&gt;Machine Learning in Robot Motion Planning&lt;/em&gt; workshop to present our work on &lt;a href=&#34;https://zamani.github.io/publication/iros2018_ws/&#34;&gt;&lt;em&gt;Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm</title>
+      <link>https://zamani.github.io/publication/iros2018_ws/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/iros2018_ws/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_1be3a760d10d96e69c3fc587abf202db.webp 400w,
+               /publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_106bab6b3abb61f97ea311057f077d57.webp 760w,
+               /publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zamani.github.io/publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_1be3a760d10d96e69c3fc587abf202db.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;233&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Robustness of Speech Emotion Recognition for Human-Robot Interaction with Deep Neural Networks</title>
+      <link>https://zamani.github.io/publication/iros2018/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/iros2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-modulated Actions using Deep Reinforcement Learning for Safer Human-Robot Interaction</title>
+      <link>https://zamani.github.io/publication/ssr2018/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/ssr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presenting my research progress</title>
+      <link>https://zamani.github.io/talk/ssr2018/</link>
+      <pubDate>Fri, 28 Sep 2018 14:15:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/ssr2018/</guid>
+      <description>&lt;p&gt;We organized a PhD students conference focused safety and interaction quality. I also had a chance to present my &lt;a href=&#34;https://zamani.github.io/publication/ssr2018/&#34;&gt;&lt;em&gt;progress&lt;/em&gt;&lt;/a&gt; in this conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Spatial Representation for Safe Human-Robot Collaboration in Joint Manual Tasks</title>
+      <link>https://zamani.github.io/publication/icra2018_workmate_ws/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/icra2018_workmate_ws/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;icra_2018_workmate.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/M9u8IcmKRbI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2) Interview with the MCAA IRRADIUM magazine</title>
+      <link>https://zamani.github.io/outreach/irradium/</link>
+      <pubDate>Tue, 22 May 2018 15:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/outreach/irradium/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zamani.github.io/img/interview_irradium.png&#34; alt=&#34;Mohammad Ali Zamani, interview, artificial intelligence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I was interviewed by the &lt;a href=&#34;https://www.mariecuriealumni.eu/mcaa-magazine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;MCAA IRRADIUM&lt;/em&gt;&lt;/a&gt; magazine about the challenges, development, and uptake of . The online version of the interview can be found here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mariecuriealumni.eu/mcaa-magazine/february-2019/innovative-technologies/european-approach-artificial-intelligence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;European approach to Artificial Intelligence: Challenges, developments and uptake&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The PDF version of the magazine can be downloaded &lt;a href=&#34;https://www.mariecuriealumni.eu/sites/default/files/mcaa_magazine_january2019_web_final.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;
+(page 16-17)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3 poster presentation at ICRA 2018</title>
+      <link>https://zamani.github.io/talk/icra2018/</link>
+      <pubDate>Tue, 22 May 2018 15:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/icra2018/</guid>
+      <description>&lt;p&gt;I presented 3 posters at ICRA main conference, Workmate workshop and PhD forum.&lt;/p&gt;
+&lt;p&gt;The first presentation was &lt;a href=&#34;https://zamani.github.io/publication/emorl/&#34;&gt;&lt;em&gt;“Emorl: Continuous acoustic emotion classification using deep reinforcement learning”&lt;/em&gt;&lt;/a&gt; at ICRA 2018.&lt;/p&gt;
+&lt;p&gt;I also presented &lt;a href=&#34;https://zamani.github.io/publication/icra2018_workmate_ws/&#34;&gt;&lt;em&gt;&amp;ldquo;Learning spatial representation for safe human-robot collaboration in joint manual tasks&amp;rdquo;&lt;/em&gt;&lt;/a&gt; at the Workmate workshop at ICRA 2018.&lt;/p&gt;
+&lt;p&gt;And finally, I presented my work on &lt;a href=&#34;https://zamani.github.io/publication/icra2018_phd_forum/&#34;&gt;&lt;em&gt;&amp;ldquo;Language-modulated Actions for Safer Human-Robot Interaction using Deep Reinforcement Learning&amp;rdquo;&lt;/em&gt;&lt;/a&gt; as a poster in the ICRA 2018 Ph.D. forum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EmoRL: Real-time Acoustic Emotion Classification using Deep Reinforcement Learning</title>
+      <link>https://zamani.github.io/publication/emorl/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/emorl/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bheIo0RUwT0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Language-modulated Safer Actions using Deep Reinforcement Learning</title>
+      <link>https://zamani.github.io/publication/icra2018_phd_forum/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/icra2018_phd_forum/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_202ae26361b65479759198999c26aec8.webp 400w,
+               /publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_fdbfcd886f42e99095236261e5fa9597.webp 760w,
+               /publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zamani.github.io/publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_202ae26361b65479759198999c26aec8.webp&#34;
+               width=&#34;421&#34;
+               height=&#34;169&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Deep Continuous Reinforcement Learning through Task Simplification</title>
+      <link>https://zamani.github.io/publication/ijcnn2018/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/ijcnn2018/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_16a309f7d01e03397c7ee8b444f2975c.webp 400w,
+               /publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_72341124232a1adc3920f6ab702b1773.webp 760w,
+               /publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zamani.github.io/publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_16a309f7d01e03397c7ee8b444f2975c.webp&#34;
+               width=&#34;516&#34;
+               height=&#34;548&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robot that performs language instructions</title>
+      <link>https://zamani.github.io/project/instructing_arm_robot/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/instructing_arm_robot/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Click&lt;/em&gt; &lt;a href=&#34;https://zamani.github.io/outreach/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt; &lt;em&gt;for more photos&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Spoken language is potentially the most intuitive way to communicate with robot. In this project, we assembled an arm robot to demonstrate to public, especially younger kids, how they can instruct robot to perform actions. This project includes automatic speech recognition (ASR), text to speech, spoken language understanding, vision, and motion planning.&lt;/p&gt;
+&lt;p&gt;To work with our robot, a user can wake up the robot by its name &amp;ldquo;Jarvis&amp;rdquo;. Then, the robot confirms that is ready to receive a new command by saying &amp;ldquo;Yes!&amp;rdquo;. After hearing the confirmation, the user give a command such as &amp;ldquo;Pick cube number 5 and put it near cube numebr 1&amp;rdquo;. Although, we had our own domain-specific ASR model, due to operating condition which was in an extremely noisy condition we used the Google ASR. We ask the Google ASR the top most probable hypotheses. These hypotheses are used to identify the intended cubes as well as a target position for the picked cube. If there was no target position is commanded then robot performed a handover when users says &amp;ldquo;Release!&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Using a top camera robot locates the cubes using the April tags on top each cubes and using moveIt! package it plans and performs the trajectory to reach to the cube. Jarvis can grasp the cube using a electomagnet which is installed at the end-effector of the robot. There is also a metal piece is attached to the top of the cubes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should We Be Afraid of Artificial Intelligence?</title>
+      <link>https://zamani.github.io/talk/ham2018/</link>
+      <pubDate>Fri, 15 Dec 2017 17:30:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/ham2018/</guid>
+      <description>&lt;p&gt;In this presentation, I talked about AI and public concerns.  The purpose of the talk was to give some intuition for a public audience that what is the research focus and methodological tools in AI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning using Symbolic Representation for Performing Spoken Language Instructions</title>
+      <link>https://zamani.github.io/publication/roman2017/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/roman2017/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Human-Robot Adaptation for Effective Skill Transfer</title>
+      <link>https://zamani.github.io/publication/icar2015/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/icar2015/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_fc5f5cd7a063e86319ad07d61ac347da.webp 400w,
+               /publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_e488f3cdab3523f4d43df09092770d5f.webp 760w,
+               /publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zamani.github.io/publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_fc5f5cd7a063e86319ad07d61ac347da.webp&#34;
+               width=&#34;643&#34;
+               height=&#34;256&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S3NW0hr72mU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting my work at BAILAR, ROMAN 2017</title>
+      <link>https://zamani.github.io/talk/roman2017/</link>
+      <pubDate>Sun, 27 Aug 2017 11:40:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/roman2017/</guid>
+      <description>&lt;p&gt;I presented our work on &lt;a href=&#34;https://zamani.github.io/publication/roman2017/&#34;&gt;&lt;em&gt;Deep Reinforcement Learning using Symbolic Representation for Performing Spoken Language Instructions&lt;/em&gt;&lt;/a&gt; at 2nd Workshop on Behavior Adaptation, Interaction and Learning for Assistive Robotics (BAILAR). This workshop was part of the 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminar Talk</title>
+      <link>https://zamani.github.io/talk/wtm_2017/</link>
+      <pubDate>Sat, 17 Jun 2017 14:15:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/wtm_2017/</guid>
+      <description>&lt;p&gt;Abstract: 
+Spoken language is one of the most efficient ways to instruct robots about performing domestic tasks. However, the state of the environment has to be considered to successfully plan and execute the actions. We propose a system which can learn to recognize the user&amp;rsquo;s intention and map it to a goal for a reinforcement learning (RL) system. This system is then used to generate a sequence of actions toward this goal considering the state of the environment. Symbolic representations are used for both input and output of a Deep RL module. To show the effectiveness of our approach, the TellMeDave corpus is used to train the intention detection model and in a second step train the RL module towards the detected objective represented by a set of state predicates. We show that the system can successfully recognize instructions from this corpus and map them to the corresponding objective as well as train an RL system with symbolic input.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminar Talk</title>
+      <link>https://zamani.github.io/talk/wtm_2016/</link>
+      <pubDate>Tue, 31 May 2016 14:15:00 +0000</pubDate>
+      <guid>https://zamani.github.io/talk/wtm_2016/</guid>
+      <description>&lt;p&gt;Abstract: 
+In the future, robots are expected to work as a companion with humans in various areas ranging from service robots to humanoid robots. Dynamic and unpredictable human/domestic environments force developers to improve safety for human-robot cooperation. One natural approach for humans is to warn about threats using natural spoken language. Then, robots should be able to modulate safer actions by a syntactic/semantic understanding of those warnings. In pour research deep neural networks will be used as the main learning approach of the natural language processing part. However, besides warning messages, other modalities seem necessary to gain a better understanding of threats such as prosody and vision. Generating safer actions depending on context can be performed by reinforcement learning or simply by choosing from an available action set. Moreover, possible tasks and scenarios as well as datasets and platforms will be discussed in this talk&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CONVERGENT Project</title>
+      <link>https://zamani.github.io/project/convergent/</link>
+      <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/convergent/</guid>
+      <description>&lt;p&gt;I was part of the CONVERGENT project between 2012-2015. Here is The main page for the &lt;a href=&#34;https://robotics.ozyegin.edu.tr/convergent-human-learning-for-robot-skill-generation/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;CONVERGENT project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S3NW0hr72mU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BtewbdaRQc0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://zamani.github.io/publication/example/</link>
+      <link>https://zamani.github.io/publication/example/__index/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://zamani.github.io/publication/example/</guid>
+      <guid>https://zamani.github.io/publication/example/__index/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

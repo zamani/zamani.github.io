@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics | Mohammad Ali Zamani</title>
-    <link>zamani.ai/tag/robotics/</link>
-      <atom:link href="zamani.ai/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zamani.github.io/tag/robotics/</link>
+      <atom:link href="https://zamani.github.io/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/zamani.ai/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zamani.github.io/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
       <title>Robotics</title>
-      <link>zamani.ai/tag/robotics/</link>
+      <link>https://zamani.github.io/tag/robotics/</link>
     </image>
     
     <item>
       <title>SECURE Project</title>
-      <link>zamani.ai/project/secure/</link>
+      <link>https://zamani.github.io/project/secure/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>zamani.ai/project/secure/</guid>
+      <guid>https://zamani.github.io/project/secure/</guid>
       <description>&lt;p&gt;I was part of the SECURE project between 2016-2019. Here is The main page for the &lt;a href=&#34;https://secure-robots.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;SECURE project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robot that performs language instructions</title>
-      <link>zamani.ai/project/instructing_arm_robot/</link>
+      <link>https://zamani.github.io/project/instructing_arm_robot/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>zamani.ai/project/instructing_arm_robot/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Click&lt;/em&gt; &lt;a href=&#34;zamani.ai/outreach/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt; &lt;em&gt;for more photos&lt;/em&gt;&lt;/p&gt;
+      <guid>https://zamani.github.io/project/instructing_arm_robot/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Click&lt;/em&gt; &lt;a href=&#34;https://zamani.github.io/outreach/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt; &lt;em&gt;for more photos&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Spoken language is potentially the most intuitive way to communicate with robot. In this project, we assembled an arm robot to demonstrate to public, especially younger kids, how they can instruct robot to perform actions. This project includes automatic speech recognition (ASR), text to speech, spoken language understanding, vision, and motion planning.&lt;/p&gt;
 &lt;p&gt;To work with our robot, a user can wake up the robot by its name &amp;ldquo;Jarvis&amp;rdquo;. Then, the robot confirms that is ready to receive a new command by saying &amp;ldquo;Yes!&amp;rdquo;. After hearing the confirmation, the user give a command such as &amp;ldquo;Pick cube number 5 and put it near cube numebr 1&amp;rdquo;. Although, we had our own domain-specific ASR model, due to operating condition which was in an extremely noisy condition we used the Google ASR. We ask the Google ASR the top most probable hypotheses. These hypotheses are used to identify the intended cubes as well as a target position for the picked cube. If there was no target position is commanded then robot performed a handover when users says &amp;ldquo;Release!&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Using a top camera robot locates the cubes using the April tags on top each cubes and using moveIt! package it plans and performs the trajectory to reach to the cube. Jarvis can grasp the cube using a electomagnet which is installed at the end-effector of the robot. There is also a metal piece is attached to the top of the cubes.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>CONVERGENT Project</title>
-      <link>zamani.ai/project/convergent/</link>
+      <link>https://zamani.github.io/project/convergent/</link>
       <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>zamani.ai/project/convergent/</guid>
+      <guid>https://zamani.github.io/project/convergent/</guid>
       <description>&lt;p&gt;I was part of the CONVERGENT project between 2012-2015. Here is The main page for the &lt;a href=&#34;https://robotics.ozyegin.edu.tr/convergent-human-learning-for-robot-skill-generation/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;CONVERGENT project&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;

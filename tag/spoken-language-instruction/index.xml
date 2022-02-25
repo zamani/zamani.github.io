@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spoken Language Instruction | Mohammad Ali Zamani</title>
-    <link>zamani.ai/tag/spoken-language-instruction/</link>
-      <atom:link href="zamani.ai/tag/spoken-language-instruction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zamani.github.io/tag/spoken-language-instruction/</link>
+      <atom:link href="https://zamani.github.io/tag/spoken-language-instruction/index.xml" rel="self" type="application/rss+xml" />
     <description>Spoken Language Instruction</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/zamani.ai/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zamani.github.io/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
       <title>Spoken Language Instruction</title>
-      <link>zamani.ai/tag/spoken-language-instruction/</link>
+      <link>https://zamani.github.io/tag/spoken-language-instruction/</link>
     </image>
     
     <item>
       <title>Deep reinforcement learning using compositional representations for performing instructions</title>
-      <link>zamani.ai/publication/paladyn/</link>
+      <link>https://zamani.github.io/publication/paladyn/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>zamani.ai/publication/paladyn/</guid>
+      <guid>https://zamani.github.io/publication/paladyn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Reinforcement Learning using Symbolic Representation for Performing Spoken Language Instructions</title>
-      <link>zamani.ai/publication/roman2017/</link>
+      <link>https://zamani.github.io/publication/roman2017/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>zamani.ai/publication/roman2017/</guid>
+      <guid>https://zamani.github.io/publication/roman2017/</guid>
       <description>
 
 

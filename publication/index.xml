@@ -1,22 +1,266 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Mohammad Ali Zamani</title>
     <link>https://zamani.github.io/publication/</link>
       <atom:link href="https://zamani.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zamani.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zamani.github.io/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://zamani.github.io/publication/</link>
     </image>
     
     <item>
+      <title>Deep reinforcement learning using compositional representations for performing instructions</title>
+      <link>https://zamani.github.io/publication/paladyn/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/paladyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating End-to-End Speech Recognition Models for Sentiment Analysis</title>
+      <link>https://zamani.github.io/publication/icra2019/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/icra2019/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/g1Xkq2AUGl8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Neural End-to-End Learning of Reach for Grasp Ability with a 6-DoF Robot Arm</title>
+      <link>https://zamani.github.io/publication/iros2018_ws/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/iros2018_ws/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_1be3a760d10d96e69c3fc587abf202db.webp 400w,
+               /publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_106bab6b3abb61f97ea311057f077d57.webp 760w,
+               /publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zamani.github.io/publication/iros2018_ws/robot_hu17a3b2f95efd667e8876c6d22114a649_49543_1be3a760d10d96e69c3fc587abf202db.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;233&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Robustness of Speech Emotion Recognition for Human-Robot Interaction with Deep Neural Networks</title>
+      <link>https://zamani.github.io/publication/iros2018/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/iros2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-modulated Actions using Deep Reinforcement Learning for Safer Human-Robot Interaction</title>
+      <link>https://zamani.github.io/publication/ssr2018/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/ssr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Spatial Representation for Safe Human-Robot Collaboration in Joint Manual Tasks</title>
+      <link>https://zamani.github.io/publication/icra2018_workmate_ws/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/icra2018_workmate_ws/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;icra_2018_workmate.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/M9u8IcmKRbI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EmoRL: Real-time Acoustic Emotion Classification using Deep Reinforcement Learning</title>
+      <link>https://zamani.github.io/publication/emorl/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/emorl/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bheIo0RUwT0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Language-modulated Safer Actions using Deep Reinforcement Learning</title>
+      <link>https://zamani.github.io/publication/icra2018_phd_forum/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/icra2018_phd_forum/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_202ae26361b65479759198999c26aec8.webp 400w,
+               /publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_fdbfcd886f42e99095236261e5fa9597.webp 760w,
+               /publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zamani.github.io/publication/icra2018_phd_forum/featured1_hu4d4028bc072c7a4602ed1579f61b1b73_71434_202ae26361b65479759198999c26aec8.webp&#34;
+               width=&#34;421&#34;
+               height=&#34;169&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Deep Continuous Reinforcement Learning through Task Simplification</title>
+      <link>https://zamani.github.io/publication/ijcnn2018/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/ijcnn2018/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_16a309f7d01e03397c7ee8b444f2975c.webp 400w,
+               /publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_72341124232a1adc3920f6ab702b1773.webp 760w,
+               /publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zamani.github.io/publication/ijcnn2018/featured_huff265ce9940313990625933b11874ca9_40647_16a309f7d01e03397c7ee8b444f2975c.webp&#34;
+               width=&#34;516&#34;
+               height=&#34;548&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning using Symbolic Representation for Performing Spoken Language Instructions</title>
+      <link>https://zamani.github.io/publication/roman2017/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/roman2017/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Human-Robot Adaptation for Effective Skill Transfer</title>
+      <link>https://zamani.github.io/publication/icar2015/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/publication/icar2015/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_fc5f5cd7a063e86319ad07d61ac347da.webp 400w,
+               /publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_e488f3cdab3523f4d43df09092770d5f.webp 760w,
+               /publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zamani.github.io/publication/icar2015/featured2_hu84f6df181991a084387ec43fd16de8be_82756_fc5f5cd7a063e86319ad07d61ac347da.webp&#34;
+               width=&#34;643&#34;
+               height=&#34;256&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S3NW0hr72mU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example conference paper</title>
-      <link>https://zamani.github.io/publication/example/</link>
+      <link>https://zamani.github.io/publication/example/__index/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://zamani.github.io/publication/example/</guid>
+      <guid>https://zamani.github.io/publication/example/__index/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
