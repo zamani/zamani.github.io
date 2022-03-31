@@ -5,7 +5,7 @@
     <link>https://zamani.github.io/post/</link>
       <atom:link href="https://zamani.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zamani.github.io/media/icon_hu1cbb8980017bdde61911f0d050bd5d33_384171_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,13 +13,169 @@
     </image>
     
     <item>
-      <title>My codes</title>
-      <link>https://zamani.github.io/post/getting-started/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://zamani.github.io/post/getting-started/</guid>
+      <title>Bike sharing prediction using deep learning</title>
+      <link>https://zamani.github.io/post/bike_sharing_project/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/post/bike_sharing_project/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;I will publish some of my codess here:
-&lt;a href=&#34;https://github.com/zamani&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/zamani&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;bike-sharing&#34;&gt;bike-sharing&lt;/h1&gt;
+&lt;p&gt;The goal is to predict the bike sharing count per hour. The dataset can be downloaded &lt;a href=&#34;https://archive.ics.uci.edu/ml/datasets/Bike&amp;#43;Sharing&amp;#43;Dataset.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have uploaded the source code in this repo:
+&lt;a href=&#34;https://github.com/zamani/bike_sharing_prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/zamani/bike_sharing_prediction&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
+&lt;p&gt;⚠️update pip and install virtualenv if necessary (check &lt;a href=&#34;https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;)
+(Optional) update the python pip&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;python -m pip install --upgrade pip
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;First clone the repo and navigate into the local repo:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/zamani/bike_sharing_prediction.git
+cd bike_sharing_prediction
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Create a virtual environment in python:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;python -m venv bike_sharing_env
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then, activate the environment on Windows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;.\bike_sharing_env\Scripts\activate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;(And on Linux/macOS)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;source env/bin/activate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Finally, install the requirements:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install -r requirements.txt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;baselines&#34;&gt;Baselines&lt;/h2&gt;
+&lt;p&gt;The proposed RNN method is compared with some simple baseline methods:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Baseline Method&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;MAE&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;STD&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Previous Hour Count&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;85.06&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;97.70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Previous Day, Same Hour&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;81.08&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;108.48&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Keep Hourly Pace&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;89.21&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125.17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Linear Regression, without regularization&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;142.21&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;115.59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The results can be shown by running the following command&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;python baselines.py
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+&lt;p&gt;In this repository, I have used RNN-GRU with different configurations. The RNN architecture is chosen for this problem because considering the sequence of consequence features and the previous output gives us additional information (comparing with only current input features). This leads to a more accurate prediction and can be modeled by the RNN. First, the dataset is divided into 70% training set, 10% validation set and 20% test set. Then, the bike count is normalized respect to the maximum bike count number in the training set.&lt;/p&gt;
+&lt;p&gt;The network is trained with the relative count respect to the previous day (same hour) or the previous hour. It means in this approach we have one of these two assumptions: either (1) we already know the count of the previous hour and we need to predict the next hour or (2) we know the previous day data (which is more realistic). The proposed architecture calculates the relative change and its value is converted into the absolute value for getting the absolute count number. Also, the relative change was trained by converting them into discrete bins and use the representative of bins as the relative increase/decrease. Only the number of bins should be defined. The bins width are automatically selected in a way that each bin almost has the same number of samples. On the other hands bins can also be defined manually such as [-1]+[-.75:0.05:0.45]+[0.5:0.25:2.5].&lt;/p&gt;
+&lt;p&gt;Here are the results with Gated Recurrent Unit (GRU) on a fixed random seed:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;RNN-GRU input (output is Y(t))&lt;/th&gt;
+&lt;th&gt;command (&lt;code&gt;python main.py &amp;lt;ARGUMENTS&amp;gt;&lt;/code&gt;)&lt;/th&gt;
+&lt;th&gt;MAE&lt;/th&gt;
+&lt;th&gt;STD&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;X(t)&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-seqlen 1&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;82.42&lt;/td&gt;
+&lt;td&gt;132.94&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;[X(t-1), X(t)]&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-seqlen 2&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;75.53&lt;/td&gt;
+&lt;td&gt;140.15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;[X(t-2), X(t-1), X(t)]&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-seqlen 3&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;92.69&lt;/td&gt;
+&lt;td&gt;162.90&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;[X(t), Y(t-1)]&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-seqlen 1 -prev_cnt hour&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;43.78&lt;/td&gt;
+&lt;td&gt;71.26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;[[X(t-1), Y(t-2)], [X(t), Y(t-1)]]&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-seqlen 2 -prev_cnt hour&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;13.73&lt;/td&gt;
+&lt;td&gt;19.33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;[X(t), Y(t-24)]&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-seqlen 1 -prev_cnt day -day_num 1&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;65.95&lt;/td&gt;
+&lt;td&gt;108.71&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;[X(t), Y(t-24), Y(t-48)]&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-seqlen 1 -prev_cnt day -day_num 2&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;33.15&lt;/td&gt;
+&lt;td&gt;33.15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;[[X(t-1), Y(t-25)], [X(t), Y(t-24)]]&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-seqlen 2 -prev_cnt day -day_num 1&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;64.24&lt;/td&gt;
+&lt;td&gt;100.13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;[[X(t-1), Y(t-25), Y(t-49)], [X(t), Y(t-24), Y(t-48)]]&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-seqlen 2 -prev_cnt day -day_num 2&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;18.98&lt;/td&gt;
+&lt;td&gt;34.17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The predicted value and actual value for a portion of test set is shown in the figure below (with this configuration
+[[X(t-1), Y(t-25), Y(t-49)], [X(t), Y(t-24), Y(t-48)]]).&lt;/p&gt;
+&lt;!--- ![result](Figure_1.png) --&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Test result&#34;
+           src=&#34;https://zamani.github.io/post/bike_sharing_project/test_results.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;There are other hyperparameters which can be explored such as learning rate, batch size, num of bins, hidden size, number of layers, dropout, and reduced features. Also, different values can be tested for seqlen, day_num.&lt;/p&gt;
 </description>
     </item>
     
