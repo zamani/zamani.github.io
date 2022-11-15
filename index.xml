@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>VideoScout</title>
+      <link>https://zamani.github.io/project/videoscout/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/project/videoscout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>VERIKAS</title>
       <link>https://zamani.github.io/project/verikas/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
@@ -289,6 +297,58 @@ cd bike_sharing_prediction
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;There are other hyperparameters which can be explored such as learning rate, batch size, num of bins, hidden size, number of layers, dropout, and reduced features. Also, different values can be tested for seqlen, day_num.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Word embeddings in Sentiment Analysis</title>
+      <link>https://zamani.github.io/post/sentiment_analysis/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/post/sentiment_analysis/</guid>
+      <description>&lt;h1 id=&#34;word-embedding&#34;&gt;Word embedding&lt;/h1&gt;
+&lt;p&gt;In the sentiment analysis task, we can use either a trainable word embedding or a pretrained one.
+A pretrained word embedding such as Word2Vec or Glove has trained to capture semantic relationship between two words.
+It means if they are semantically close together, their word embedding vector is also similar (based on similarity
+measurement such as cosine similarity). So, this is expected to be helpful in a sentiment analysis task as we expect the
+similar words to have the same sentiment.&lt;/p&gt;
+&lt;p&gt;On the other hand, the trainable word embedding (or embedding layer) could be trained based on specific task e.g.
+sentiment analysis. Despite the pretrained word embedding, the trainable word embedding representation is randomly
+initialized at the begining of learning sentiment analysis. Then, eventually, the vectors are updated to organize
+the words sentimentally.&lt;/p&gt;
+&lt;h2 id=&#34;visualization&#34;&gt;Visualization&lt;/h2&gt;
+&lt;p&gt;The goal is to show that how a trainable word embedding is updated during the training process of sentiment analysis
+task. The embedding dimension is chosen as 2. Therefore, we can directly observe the changes in the word
+embedding without using any dimension reduction approach such t-SNE. The values of word embedding are averaged out to summarize every given
+sentence with a fixed 2 dimension.Then, it is connected to a 5 layer MLP (Fully connected). The number of layers are
+selected without any extensive hyper-parameter search.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Test result&#34;
+           src=&#34;https://zamani.github.io/post/sentiment_analysis/word2vec_animation.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Only few interesting words are selected to be observed during training. As can be seen, at the beginning (i.e. epoch 1),
+every word is randomly placed due to the random initialization. However, eventually, the positive words move to the one
+side of the graph and the negative words move to the other side. After, some epochs the selected words are linearly
+separable which makes the job for the deep learning part much easier. Although, it should be considered that the demo is
+only for a selected group of words.&lt;/p&gt;
 </description>
     </item>
     
@@ -925,7 +985,7 @@ I explained our project to Dimitrios Papadimoulis, Vice President of the Europea
       <link>https://zamani.github.io/talk/wtm_2017/</link>
       <pubDate>Sat, 17 Jun 2017 14:15:00 +0000</pubDate>
       <guid>https://zamani.github.io/talk/wtm_2017/</guid>
-      <description>&lt;p&gt;Abstract: 
+      <description>&lt;p&gt;Abstract:
 Spoken language is one of the most efficient ways to instruct robots about performing domestic tasks. However, the state of the environment has to be considered to successfully plan and execute the actions. We propose a system which can learn to recognize the user&amp;rsquo;s intention and map it to a goal for a reinforcement learning (RL) system. This system is then used to generate a sequence of actions toward this goal considering the state of the environment. Symbolic representations are used for both input and output of a Deep RL module. To show the effectiveness of our approach, the TellMeDave corpus is used to train the intention detection model and in a second step train the RL module towards the detected objective represented by a set of state predicates. We show that the system can successfully recognize instructions from this corpus and map them to the corresponding objective as well as train an RL system with symbolic input.&lt;/p&gt;
 </description>
     </item>
@@ -935,7 +995,7 @@ Spoken language is one of the most efficient ways to instruct robots about perfo
       <link>https://zamani.github.io/talk/wtm_2016/</link>
       <pubDate>Tue, 31 May 2016 14:15:00 +0000</pubDate>
       <guid>https://zamani.github.io/talk/wtm_2016/</guid>
-      <description>&lt;p&gt;Abstract: 
+      <description>&lt;p&gt;Abstract:
 In the future, robots are expected to work as a companion with humans in various areas ranging from service robots to humanoid robots. Dynamic and unpredictable human/domestic environments force developers to improve safety for human-robot cooperation. One natural approach for humans is to warn about threats using natural spoken language. Then, robots should be able to modulate safer actions by a syntactic/semantic understanding of those warnings. In pour research deep neural networks will be used as the main learning approach of the natural language processing part. However, besides warning messages, other modalities seem necessary to gain a better understanding of threats such as prosody and vision. Generating safer actions depending on context can be performed by reinforcement learning or simply by choosing from an available action set. Moreover, possible tasks and scenarios as well as datasets and platforms will be discussed in this talk&lt;/p&gt;
 </description>
     </item>

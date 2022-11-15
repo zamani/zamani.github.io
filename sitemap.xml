@@ -10,11 +10,13 @@
   <url>
     <loc>https://zamani.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://zamani.github.io/tag/deep-learning/</loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
+    <loc>https://zamani.github.io/tag/deep-learning/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://zamani.github.io/project/</loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
+    <loc>https://zamani.github.io/project/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://zamani.github.io/tags/</loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
+    <loc>https://zamani.github.io/tags/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://zamani.github.io/project/videoscout/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://zamani.github.io/project/verikas/</loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
   <url>
@@ -30,7 +32,7 @@
   <url>
     <loc>https://zamani.github.io/talk/hitec_automl_2020/</loc><lastmod>2020-02-07T10:30:00+00:00</lastmod></url>
   <url>
-    <loc></loc><lastmod>2020-02-22T00:00:00+00:00</lastmod></url>
+    <loc></loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://zamani.github.io/post/bike_sharing_project/</loc><lastmod>2020-02-22T00:00:00+00:00</lastmod></url>
   <url>
@@ -40,9 +42,11 @@
   <url>
     <loc>https://zamani.github.io/category/codes/</loc><lastmod>2020-02-22T00:00:00+00:00</lastmod></url>
   <url>
-    <loc></loc><lastmod>2020-02-22T00:00:00+00:00</lastmod></url>
+    <loc></loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://zamani.github.io/post/</loc><lastmod>2020-02-22T00:00:00+00:00</lastmod></url>
+    <loc>https://zamani.github.io/post/</loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://zamani.github.io/post/sentiment_analysis/</loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://zamani.github.io/talk/hitec_gpbo2020/</loc><lastmod>2020-01-13T10:30:00+00:00</lastmod></url>
   <url>
@@ -126,7 +130,7 @@
   <url>
     <loc>https://zamani.github.io/publication/emorl/</loc><lastmod>2018-05-22T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://zamani.github.io/publication-type/1/</loc><lastmod>2018-05-20T00:00:00+00:00</lastmod></url>
+    <loc>https://zamani.github.io/publication-type/-1/</loc><lastmod>2018-05-20T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://zamani.github.io/publication/icra2018_phd_forum/</loc><lastmod>2018-05-20T00:00:00+00:00</lastmod></url>
   <url>
@@ -159,6 +163,8 @@
     <loc>https://zamani.github.io/talk/wtm_2016/</loc><lastmod>2016-05-31T14:15:00+00:00</lastmod></url>
   <url>
     <loc>https://zamani.github.io/project/convergent/</loc><lastmod>2015-08-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://zamani.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://zamani.github.io/publication/example/__index/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
   <url>

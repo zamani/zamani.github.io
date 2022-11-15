@@ -148,7 +148,7 @@
       <link>https://zamani.github.io/talk/wtm_2017/</link>
       <pubDate>Sat, 17 Jun 2017 14:15:00 +0000</pubDate>
       <guid>https://zamani.github.io/talk/wtm_2017/</guid>
-      <description>&lt;p&gt;Abstract: 
+      <description>&lt;p&gt;Abstract:
 Spoken language is one of the most efficient ways to instruct robots about performing domestic tasks. However, the state of the environment has to be considered to successfully plan and execute the actions. We propose a system which can learn to recognize the user&amp;rsquo;s intention and map it to a goal for a reinforcement learning (RL) system. This system is then used to generate a sequence of actions toward this goal considering the state of the environment. Symbolic representations are used for both input and output of a Deep RL module. To show the effectiveness of our approach, the TellMeDave corpus is used to train the intention detection model and in a second step train the RL module towards the detected objective represented by a set of state predicates. We show that the system can successfully recognize instructions from this corpus and map them to the corresponding objective as well as train an RL system with symbolic input.&lt;/p&gt;
 </description>
     </item>
@@ -158,7 +158,7 @@ Spoken language is one of the most efficient ways to instruct robots about perfo
       <link>https://zamani.github.io/talk/wtm_2016/</link>
       <pubDate>Tue, 31 May 2016 14:15:00 +0000</pubDate>
       <guid>https://zamani.github.io/talk/wtm_2016/</guid>
-      <description>&lt;p&gt;Abstract: 
+      <description>&lt;p&gt;Abstract:
 In the future, robots are expected to work as a companion with humans in various areas ranging from service robots to humanoid robots. Dynamic and unpredictable human/domestic environments force developers to improve safety for human-robot cooperation. One natural approach for humans is to warn about threats using natural spoken language. Then, robots should be able to modulate safer actions by a syntactic/semantic understanding of those warnings. In pour research deep neural networks will be used as the main learning approach of the natural language processing part. However, besides warning messages, other modalities seem necessary to gain a better understanding of threats such as prosody and vision. Generating safer actions depending on context can be performed by reinforcement learning or simply by choosing from an available action set. Moreover, possible tasks and scenarios as well as datasets and platforms will be discussed in this talk&lt;/p&gt;
 </description>
     </item>

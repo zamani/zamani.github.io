@@ -179,5 +179,57 @@ cd bike_sharing_prediction
 </description>
     </item>
     
+    <item>
+      <title>Word embeddings in Sentiment Analysis</title>
+      <link>https://zamani.github.io/post/sentiment_analysis/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zamani.github.io/post/sentiment_analysis/</guid>
+      <description>&lt;h1 id=&#34;word-embedding&#34;&gt;Word embedding&lt;/h1&gt;
+&lt;p&gt;In the sentiment analysis task, we can use either a trainable word embedding or a pretrained one.
+A pretrained word embedding such as Word2Vec or Glove has trained to capture semantic relationship between two words.
+It means if they are semantically close together, their word embedding vector is also similar (based on similarity
+measurement such as cosine similarity). So, this is expected to be helpful in a sentiment analysis task as we expect the
+similar words to have the same sentiment.&lt;/p&gt;
+&lt;p&gt;On the other hand, the trainable word embedding (or embedding layer) could be trained based on specific task e.g.
+sentiment analysis. Despite the pretrained word embedding, the trainable word embedding representation is randomly
+initialized at the begining of learning sentiment analysis. Then, eventually, the vectors are updated to organize
+the words sentimentally.&lt;/p&gt;
+&lt;h2 id=&#34;visualization&#34;&gt;Visualization&lt;/h2&gt;
+&lt;p&gt;The goal is to show that how a trainable word embedding is updated during the training process of sentiment analysis
+task. The embedding dimension is chosen as 2. Therefore, we can directly observe the changes in the word
+embedding without using any dimension reduction approach such t-SNE. The values of word embedding are averaged out to summarize every given
+sentence with a fixed 2 dimension.Then, it is connected to a 5 layer MLP (Fully connected). The number of layers are
+selected without any extensive hyper-parameter search.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Test result&#34;
+           src=&#34;https://zamani.github.io/post/sentiment_analysis/word2vec_animation.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Only few interesting words are selected to be observed during training. As can be seen, at the beginning (i.e. epoch 1),
+every word is randomly placed due to the random initialization. However, eventually, the positive words move to the one
+side of the graph and the negative words move to the other side. After, some epochs the selected words are linearly
+separable which makes the job for the deep learning part much easier. Although, it should be considered that the demo is
+only for a selected group of words.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
